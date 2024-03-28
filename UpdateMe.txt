@@ -2,4 +2,4 @@ Kirjoitelkaa tänne kaikennäköistä juttua.
 Minna muutti vs coden kautta!!!!!
 
 
-ja jälleen muutetaan vs coden kautta
+Poistettu git-editorin kautta yksi rivi
