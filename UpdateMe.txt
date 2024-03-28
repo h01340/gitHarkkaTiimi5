@@ -1,15 +1,5 @@
 Kirjoitelkaa tänne kaikennäköistä juttua. 
-<<<<<<< HEAD
 Minna muutti vs coden kautta!!!!!
-=======
-Minna muutti vs coden kautta
-kasdjfölaskdf
-dsafasdfasdf
 
-dsadsadsaddsadsadssa
-Jaakko
 
-ADKLDJlksajdlkasjdioasdasd
-
-Minna muutti suoraan GitHubin editorin kautta
->>>>>>> ff69c89046a83a4a11eae8b8d0371e6860d83295
+ja jälleen muutetaan vs coden kautta
