@@ -1,4 +1,2 @@
 ALkuperäinen tilanne
-
-Minna muokkasi tätä vs-codessa
-ja uudelleen
+Näin tämä teksti pitää olla
