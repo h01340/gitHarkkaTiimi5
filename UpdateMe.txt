@@ -1,1 +1,3 @@
 ALkuperäinen tilanne
+
+Tiedostoa muokataan suoraan gittiin
