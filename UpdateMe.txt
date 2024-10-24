@@ -1,2 +1,2 @@
 Kirjoitelkaa tänne kaikennäköistä juttua. 
-Minna muutti vs coden kautta - ja tämä pitäisi mennä git remoteen
+Minna muutti  suoraan githubissa
