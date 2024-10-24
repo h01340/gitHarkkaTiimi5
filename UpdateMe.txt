@@ -1,2 +1,6 @@
 Kirjoitelkaa tänne kaikennäköistä juttua. 
+<<<<<<< HEAD
 Minna muutti notepadilla tämän
+=======
+Minna muutti  suoraan githubissa
+>>>>>>> 2a7982dd79ea11f8973ea1018cb446d60a228349
