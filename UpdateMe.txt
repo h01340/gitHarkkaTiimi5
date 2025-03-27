@@ -1,4 +1,3 @@
 ALkuperäinen tilanne
 Näin tämä teksti pitää olla
 
-muutetaan suoraan githubissa
