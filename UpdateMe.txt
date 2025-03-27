@@ -1,2 +1,4 @@
 ALkuperäinen tilanne
 Näin tämä teksti pitää olla
+
+ja näin tämä on 
