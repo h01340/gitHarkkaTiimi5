@@ -1,6 +1,8 @@
 # gitHarkkaTiimiOpettajanVersio
 Ohjelmistoprojekti I GitHub-käytön harjoittelua. 
+
 Tavoite: 
+
 A. yritetään saada ns. konflikti aikaiseksi. Konfliktissa kaksi tai useampi henkilö on muuttanut samanaikaisesti samaa tiedostoa, ja git ei osaa valita mikä on oikea versio. 
 
 B. saadaan konflikti tilanne korjattua. 
